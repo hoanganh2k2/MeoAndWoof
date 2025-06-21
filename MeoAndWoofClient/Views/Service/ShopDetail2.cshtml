@@ -1,0 +1,468 @@
+﻿@model BusinessObject.ObjectView.ShopDetail2View;
+@{
+    ViewData["Title"] = "Shop Detail2";
+    Layout = null;
+    string NameUser = Context.Request.HttpContext.Session.GetString("NameUser");
+    string PhoneUser = Context.Request.HttpContext.Session.GetString("PhoneUser");
+    int serviceId = ViewBag.ServiceId;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Meow & Woof - Pet Care Website</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta content="Free HTML Templates" name="keywords" />
+    <meta content="Free HTML Templates" name="description" />
+
+    <!-- Favicon -->
+    <link href="/img/logo.png" rel="icon" />
+
+    <!-- Google Web Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Nunito:wght@600;700;800&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Font Awesome -->
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css"
+      rel="stylesheet"
+    />
+
+    <!-- Flaticon Font -->
+    <link href="/lib/flaticon/font/flaticon.css" rel="stylesheet" />
+    <script src="https://kit.fontawesome.com/84e176b008.js"
+            crossorigin="anonymous"></script>
+
+    <!-- Libraries Stylesheet -->
+    <link href="/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
+    <link
+      href="/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/84e176b008.js"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="/css/common/style.css" rel="stylesheet" />
+    <link href="/css/pages/navbar.css" rel="stylesheet" />
+    <link href="/css/pages/shop-detail.css" rel="stylesheet" />
+  </head>
+
+  <body>
+   @Html.Partial("Header")
+
+    <!-- Services Start -->
+    <div class="container-fluid bg-light pt-5">
+      <div class="container py-5">
+        <div class="row">
+          <div class="col-md-7">
+            <div class="d-flex justify-content-start">
+              <!-- SHOP DETAIL -->
+              <div class="avatar-shop">
+                <img
+                  class="rounded-circle"
+                  src="@Model.userDTO.Userimage"
+                  width="100px"
+                  height="100px"
+                />
+              </div>
+              <div class="ml-5">
+                <div class="name-shop">
+                  <h3>@Model.serviceDTO.Servicename </h3>
+                     <div>By @Model.userDTO.Fullname </div>
+                </div>
+                <div style="font-weight: bold; color: #008000">
+                  <i class="mt-4 fa-regular fa-calendar"></i>
+                                &nbsp;&nbsp;@Model.serviceDTO.ServiceNumberBooking đặt chỗ thành công &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                @Model.serviceDTO.Servicestar⭐  &nbsp;&nbsp;@Model.serviceDTO.ServiceNumberReview đánh giá
+                </div>
+              </div>
+            </div>
+            <hr />
+            <div class="address-shop mt-4 mb-4">
+              <p>
+                <i class="fa-solid fa-location-dot"></i> Location: @Model.serviceDTO.Address
+              </p>
+            </div>
+            <hr />
+            <!-- GUEST IMAGES -->
+
+            <div>
+                 <h2>@Model.serviceDTO.Servicename</h2>
+            </div>
+                <div class="single-slider owl-carousel" style="height: 500px;">
+                    @foreach (var url in Model.imageDTOs)
+                    {
+                            <div class="item" style="max-height: 500px;">
+                            <a href="@url.Imagetxt" data-toggle="lightbox">
+                                <img src="@url.Imagetxt" class="img-thumbnail" />
+                            </a>
+                        </div>
+                    }
+                </div>
+            <!--  -->
+
+            <div class="content-shop mt-5">
+              <p>
+                @Model.serviceDTO.Description
+              </p>
+              <hr class="" />
+                        <hr class="" />
+                        <div>
+                            <h3>Giá cả dịch vụ lưu trú tại @Model.serviceDTO.Servicename</h3>
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Số kg</th>
+                                        <th scope="col">Giá</th>
+                                        <th scope="col">Khẩu phần ăn</th>
+                                        <th scope="col">Tắm/spa</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach(var price in Model.servicePriceDTOs)
+                                    {
+                                        <tr>
+                                            <td>@price.Pettype.Pettypename @price.Pettype.WeightFrom - @price.Pettype.WeightTo kg</td>
+                                            <td>@price.Numberprice k/ ngày</td>
+                                            <td>
+                                                – Ngày ăn 2 bữa sáng chiều.<br />– Khẩu phần: Hạt (70%),
+                                                thịt gà, bò và rau củ (30%)
+                                            </td>
+
+                                            <td>Tắm, spa: 1 tuần/lần.</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                        <hr />
+
+              <!-- BUTTON REVIEW -->
+              <div class="shop-reviews d-flex justify-content-between mt-4">
+                <div class="total-review">
+                  <h3>@Model.serviceDTO.ServiceNumberReview Reviews</h3>
+                </div>
+                <div class="btn-add-reviews">
+                  <button class="btn btn-primary">Write a Review</button>
+                </div>
+              </div>
+              <hr />
+              <!-- COMMENT START -->
+              <div class="d-flex justify-content-start">
+                <div class="avatar-customer">
+                  <img
+                    class="rounded-circle"
+                    src="/img/team-2.jpg"
+                    width="100px"
+                    height="100px"
+                  />
+                </div>
+                <div class="ml-3">
+                  <div class="name-customer">
+                    <h5>Pimienta</h5>
+                    <div>
+                      ⭐⭐⭐⭐⭐ &nbsp;
+                      <small style="font-size: 15px">June 3</small>
+                    </div>
+                  </div>
+                  <div class="mt-3">
+                    Nuestra experiencia con Marina fue excelente!! Desde el
+                    primer momento nos escucho sobre las necesidades de Simona y
+                    durante su estadía nos mantuvo actualizados con fotos y
+                    videos. Se nota que Simona se sintió muy cómoda así que
+                    nosotros con ella también! Recomiendo totalmen
+                  </div>
+                </div>
+              </div>
+              <hr />
+              <!-- COMMENT END  -->
+            </div>
+          </div>
+          <!-- INFO START -->
+          <div class="col-md-5">
+            <div
+              class="card"
+              style="position: -webkit-sticky; position: sticky; top: 0"
+            >
+              <div class="card-header text-center">
+                <h4 class="mt-2">Services & Rates</h4>
+              </div>
+              <div class="card-body">
+                <div class="contact-shop">
+                  <p><i class="fa-solid fa-comments"></i> Talk & Greet</p>
+                  <div class="d-flex justify-content-between">
+                    <p class="card-text">Get to know each other first</p>
+                    <p><strong>FREE</strong></p>
+                  </div>
+                  <a href="#" class="btn btn-lg btn-outline-info w-100">CONTACT <i class="fa-solid fa-phone ml-3"></i></a>
+                </div>
+                <hr />
+                <div class="info-pay-shop">
+                  <div class="">
+                    <p><i class="fa-solid fa-house-user"></i> Pet Boarding</p>
+                  </div>
+                  <hr />
+                  <div class="icons d-flex justify-content-between">
+                    <img src="/img/icons/visa.svg" width="70px" />
+                    <img src="/img/icons/mastercard.svg" width="70px" />
+                    <img src="/img/icons/paypal.svg" width="70px" />
+                    <img src="/img/icons/amex.svg" width="70px" />
+                  </div>
+                  <hr />
+                <div class="py-3 ">
+                <form method="post" action="/Service/Book2" class="">
+                    <input name="ServiceId" type="number" value="@serviceId" hidden/>
+                    <div class="form-group">
+                        <input type="text"
+                        @if (NameUser != null)
+                        {
+                            <text>value="@NameUser" readonly</text>
+                        }
+                        class="form-control  p-4" placeholder="Tên của bạn" required="required" />
+                     </div>
+                     <div class="form-group">
+                                            <input type="tel" id="phoneInput"
+                        @if (NameUser != null)
+                        {
+                            <text>value="@PhoneUser" readonly</text>
+                        }
+                                            class="form-control  p-4" placeholder="Số điện thoại" required="required" pattern="[0-9]{10}" oninput="validatePhoneInput(this)"/>
+                    </div>
+                    <div class="form-group">
+                      <div class="date"
+                        id="date"
+                        data-target-input="nearest">
+                        <input type="text"
+                                name="day"
+                                class="form-control  p-4 datetimepicker-input"
+                                placeholder="Ngày đặt chỗ"
+                                data-target="#date"
+                                data-toggle="datetimepicker" />
+                      </div>
+                    </div>
+                    <div class="form-group">
+                      <div class="time"
+                            id="time"
+                            data-target-input="nearest">
+                        <input type="text"
+                                name="time"
+                                class="form-control  p-4 datetimepicker-input"
+                                placeholder="Thời gian đặt chỗ"
+                                data-target="#time"
+                                data-toggle="datetimepicker" />
+                      </div>
+                    </div>
+                    <div class="form-group">
+                        <input type="number"
+                                id="daysInput"
+                                name="dayNumber"
+                                class="form-control p-4"
+                                placeholder="Số ngày yêu cầu"
+                                required="required"
+                                min="1"
+                                max="365"
+                                oninput="updateDaysText()" />
+                        <small id="daysText" class="form-text text-muted"></small>
+                    </div>
+                    @if(Model.petDTOs == null)
+                    {
+                        <div class="form-group">
+                            <select
+                            class="custom-select px-4"
+                            style="height: 47px">
+                                @if (@NameUser != null)
+                                {
+                                    <option>Bạn đang không có thú cưng nào, thêm thú cưng ở phần thông tin</option>
+                                }
+                                else
+                                {
+                                    <option>Đăng nhập để trải nghiệm dịch vụ lâu dài</option>
+                                }
+                            </select>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="form-group">
+                            <select asp-for="@Model.postBooking.Petid"
+                                    class="custom-select px-4"
+                                    style="height: 47px">
+                                <option  selected>Thú cưng của bạn</option>
+                                @foreach(var pet in Model.petDTOs)
+                                {
+                                    <option value="@pet.Petid">@pet.Petname (@pet.Pettype.Pettypename @pet.Pettype.WeightFrom - @pet.Pettype.WeightTo kg)</option>
+
+                                }
+                            </select>
+                        </div>
+                    }
+                    <div class="form-group">
+                        <textarea asp-for="@Model.postBooking.Note"
+                                    placeholder="Ghi chú"
+                                    class="form-control pl-4 pt-3"
+                                    rows="3"></textarea>
+                    </div>
+                    <div>
+                        <button class="w-100 btn btn-lg btn-success">
+                            Đặt ngay <i class="fa-solid fa-bars ml-3"></i>
+                        </button>
+                    </div>
+                  </form>
+                </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- INFO END EDIT HERE -->
+        </div>
+      </div>
+    </div>
+    <!-- Services End EDIT HERE-->
+
+    <!-- Testimonial Start -->
+    <div class="container-fluid p-0 py-5">
+      <div class="container p-0 pt-5">
+        <div class="d-flex flex-column text-center mb-5">
+          <h4 class="text-secondary mb-3">Testimonial</h4>
+          <h1 class="display-4 m-0">
+            Our Client <span class="text-primary">Says</span>
+          </h1>
+        </div>
+        <div class="owl-carousel testimonial-carousel">
+          <div class="bg-light mx-3 p-4">
+            <div class="d-flex align-items-end mb-3 mt-n4 ml-n4">
+              <img
+                class="img-fluid"
+                src="/img/testimonial-1.jpg"
+                style="width: 80px; height: 80px"
+                alt=""
+              />
+              <div class="ml-3">
+                <h5>Client Name</h5>
+                <i>Profession</i>
+              </div>
+            </div>
+            <p class="m-0">
+              Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr
+              eirmod clita lorem. Dolor tempor ipsum sanct clita
+            </p>
+          </div>
+          <div class="bg-light mx-3 p-4">
+            <div class="d-flex align-items-end mb-3 mt-n4 ml-n4">
+              <img
+                class="img-fluid"
+                src="/img/testimonial-2.jpg"
+                style="width: 80px; height: 80px"
+                alt=""
+              />
+              <div class="ml-3">
+                <h5>Client Name</h5>
+                <i>Profession</i>
+              </div>
+            </div>
+            <p class="m-0">
+              Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr
+              eirmod clita lorem. Dolor tempor ipsum sanct clita
+            </p>
+          </div>
+          <div class="bg-light mx-3 p-4">
+            <div class="d-flex align-items-end mb-3 mt-n4 ml-n4">
+              <img
+                class="img-fluid"
+                src="/img/testimonial-3.jpg"
+                style="width: 80px; height: 80px"
+                alt=""
+              />
+              <div class="ml-3">
+                <h5>Client Name</h5>
+                <i>Profession</i>
+              </div>
+            </div>
+            <p class="m-0">
+              Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr
+              eirmod clita lorem. Dolor tempor ipsum sanct clita
+            </p>
+          </div>
+          <div class="bg-light mx-3 p-4">
+            <div class="d-flex align-items-end mb-3 mt-n4 ml-n4">
+              <img
+                class="img-fluid"
+                src="/img/testimonial-4.jpg"
+                style="width: 80px; height: 80px"
+                alt=""
+              />
+              <div class="ml-3">
+                <h5>Client Name</h5>
+                <i>Profession</i>
+              </div>
+            </div>
+            <p class="m-0">
+              Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr
+              eirmod clita lorem. Dolor tempor ipsum sanct clita
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Testimonial End -->
+    @Html.Partial("Footer")
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="/lib/easing/easing.min.js"></script>
+    <script src="/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="/lib/tempusdominus/js/moment.min.js"></script>
+    <script src="/lib/tempusdominus/js/moment-timezone.min.js"></script>
+    <script src="/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
+
+    <!-- Contact Javascript File -->
+    <script src="/mail/jqBootstrapValidation.min.js"></script>
+    <script src="/mail/contact.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="/js/main.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.single-slider').owlCarousel({
+                animateOut: 'fadeOut',
+                animateIn: 'fadeIn',
+                autoplay: true,
+                loop: true,
+                items: 1,
+                margin: 0,
+                stagePadding: 0,
+                nav: true,
+                dots: true,
+                navText: ['<span class="ion-ios-arrow-back"></span>', '<span class="ion-ios-arrow-forward"></span>'],
+                responsive: {
+                    0: { items: 1 },
+                    600: { items: 1 },
+                    1000: { items: 1 }
+                }
+            });
+        });
+        function updateDaysText() {
+            const daysInput = document.getElementById('daysInput');
+            const daysText = document.getElementById('daysText');
+            const value = daysInput.value;
+
+            if (value) {
+                daysText.textContent = value + ' ' + (value == 1 ? 'ngày' : 'ngày');
+            } else {
+                daysText.textContent = '';
+            }
+        }
+        function validatePhoneInput(input) {
+            // Remove any non-digit characters
+            input.value = input.value.replace(/\D/g, '');
+        }
+    </script>
+  </body>
+</html>

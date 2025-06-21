@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B47437F-43DF-4071-B394-505797B52DCE}|MeoAndWoofClient\\MeoAndWoofClient.csproj|e:\\chuyen nganh\\dotnet\\exe\\exe_meoandwoof_api\\meoandwoofclient\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B47437F-43DF-4071-B394-505797B52DCE}|MeoAndWoofClient\\MeoAndWoofClient.csproj|solutionrelative:meoandwoofclient\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ED9FEE-0523-4574-8C08-730BFB63AB96}|APIMeoAndWoof\\APIMeoAndWoof.csproj|e:\\chuyen nganh\\dotnet\\exe\\exe_meoandwoof_api\\apimeoandwoof\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66ED9FEE-0523-4574-8C08-730BFB63AB96}|APIMeoAndWoof\\APIMeoAndWoof.csproj|solutionrelative:apimeoandwoof\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ED9FEE-0523-4574-8C08-730BFB63AB96}|APIMeoAndWoof\\APIMeoAndWoof.csproj|e:\\chuyen nganh\\dotnet\\exe\\exe_meoandwoof_api\\apimeoandwoof\\controllers\\servicetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66ED9FEE-0523-4574-8C08-730BFB63AB96}|APIMeoAndWoof\\APIMeoAndWoof.csproj|solutionrelative:apimeoandwoof\\controllers\\servicetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B47437F-43DF-4071-B394-505797B52DCE}|MeoAndWoofClient\\MeoAndWoofClient.csproj|e:\\chuyen nganh\\dotnet\\exe\\exe_meoandwoof_api\\meoandwoofclient\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B47437F-43DF-4071-B394-505797B52DCE}|MeoAndWoofClient\\MeoAndWoofClient.csproj|solutionrelative:meoandwoofclient\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B47437F-43DF-4071-B394-505797B52DCE}|MeoAndWoofClient\\MeoAndWoofClient.csproj|e:\\chuyen nganh\\dotnet\\exe\\exe_meoandwoof_api\\meoandwoofclient\\views\\supplier\\orderdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B47437F-43DF-4071-B394-505797B52DCE}|MeoAndWoofClient\\MeoAndWoofClient.csproj|solutionrelative:meoandwoofclient\\views\\supplier\\orderdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MeoAndWoofClient\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MeoAndWoofClient\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKMAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:24:32.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\APIMeoAndWoof\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "APIMeoAndWoof\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\APIMeoAndWoof\\Controllers\\UserController.cs",
+              "RelativeToolTip": "APIMeoAndWoof\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:24:24.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceTypeController.cs",
+              "DocumentMoniker": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\APIMeoAndWoof\\Controllers\\ServiceTypeController.cs",
+              "RelativeDocumentMoniker": "APIMeoAndWoof\\Controllers\\ServiceTypeController.cs",
+              "ToolTip": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\APIMeoAndWoof\\Controllers\\ServiceTypeController.cs",
+              "RelativeToolTip": "APIMeoAndWoof\\Controllers\\ServiceTypeController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAmwF4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:13:47.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "MeoAndWoofClient\\Controllers\\SupplierController.cs",
+              "ToolTip": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "MeoAndWoofClient\\Controllers\\SupplierController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwCoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:50:36.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDetail.cshtml",
+              "DocumentMoniker": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\Views\\Supplier\\OrderDetail.cshtml",
+              "RelativeDocumentMoniker": "MeoAndWoofClient\\Views\\Supplier\\OrderDetail.cshtml",
+              "ToolTip": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\Views\\Supplier\\OrderDetail.cshtml",
+              "RelativeToolTip": "MeoAndWoofClient\\Views\\Supplier\\OrderDetail.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAD0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T06:56:11.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

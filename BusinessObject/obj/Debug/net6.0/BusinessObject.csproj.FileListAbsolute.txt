@@ -1,0 +1,42 @@
+E:\Chuyen nganh\Dotnet\PRN231\EXE\EXE_MeoAndWoof_API\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+E:\Chuyen nganh\Dotnet\PRN231\EXE\EXE_MeoAndWoof_API\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+E:\Chuyen nganh\Dotnet\PRN231\EXE\EXE_MeoAndWoof_API\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+E:\Chuyen nganh\Dotnet\PRN231\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Chuyen nganh\Dotnet\PRN231\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+E:\Chuyen nganh\Dotnet\PRN231\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+E:\Chuyen nganh\Dotnet\PRN231\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\Chuyen nganh\Dotnet\PRN231\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+E:\Chuyen nganh\Dotnet\PRN231\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+E:\Chuyen nganh\Dotnet\PRN231\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+E:\Chuyen nganh\Dotnet\PRN231\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+E:\Chuyen nganh\Dotnet\PRN231\EXE\EXE_MeoAndWoof_API\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+E:\Chuyen nganh\Dotnet\PRN231\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+E:\Chuyen nganh\Dotnet\PRN231\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+E:\Chuyen nganh\Dotnet\EXE\EXE_MeoAndWoof_API\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+E:\Chuyen nganh\Dotnet\EXE\EXE_MeoAndWoof_API\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+E:\Chuyen nganh\Dotnet\EXE\EXE_MeoAndWoof_API\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+E:\Chuyen nganh\Dotnet\EXE\EXE_MeoAndWoof_API\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+E:\Chuyen nganh\Dotnet\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+E:\Chuyen nganh\Dotnet\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Chuyen nganh\Dotnet\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+E:\Chuyen nganh\Dotnet\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+E:\Chuyen nganh\Dotnet\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\Chuyen nganh\Dotnet\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+E:\Chuyen nganh\Dotnet\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+E:\Chuyen nganh\Dotnet\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+E:\Chuyen nganh\Dotnet\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+E:\Chuyen nganh\Dotnet\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+C:\Users\lvttr\OneDrive\Desktop\New folder (3)\EXE\EXE_MeoAndWoof_API\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\lvttr\OneDrive\Desktop\New folder (3)\EXE\EXE_MeoAndWoof_API\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Users\lvttr\OneDrive\Desktop\New folder (3)\EXE\EXE_MeoAndWoof_API\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\lvttr\OneDrive\Desktop\New folder (3)\EXE\EXE_MeoAndWoof_API\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\lvttr\OneDrive\Desktop\New folder (3)\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\lvttr\OneDrive\Desktop\New folder (3)\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvttr\OneDrive\Desktop\New folder (3)\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\lvttr\OneDrive\Desktop\New folder (3)\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\lvttr\OneDrive\Desktop\New folder (3)\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\lvttr\OneDrive\Desktop\New folder (3)\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\lvttr\OneDrive\Desktop\New folder (3)\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\lvttr\OneDrive\Desktop\New folder (3)\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\lvttr\OneDrive\Desktop\New folder (3)\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Users\lvttr\OneDrive\Desktop\New folder (3)\EXE\EXE_MeoAndWoof_API\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll

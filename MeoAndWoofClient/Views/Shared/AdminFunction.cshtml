@@ -1,0 +1,57 @@
+﻿@{
+	ViewData["Title"] = "Admin Function";
+	Layout = null;
+}
+
+<div class="left-side-bar">
+	<div class="brand-logo">
+		<a asp-action="Index" asp-controller="Home">
+			<img src="/admin/vendors/images/deskapp-logo.svg" alt="" class="dark-logo">
+			<img src="/admin/vendors/images/deskapp-logo-white.svg" alt="" class="light-logo">
+		</a>
+		<div class="close-sidebar" data-toggle="left-sidebar-close">
+			<i class="ion-close-round"></i>
+		</div>
+	</div>
+	<div class="menu-block customscroll">
+		<div class="sidebar-menu">
+			<ul id="accordion-menu">
+				<li class="dropdown">
+					<a href="javascript:;" class="dropdown-toggle">
+						<span class="micon dw dw-house-1"></span><span class="mtext">Home</span>
+					</a>
+					<ul class="submenu">
+						<li><a asp-controller="Home" asp-action="Index">Trang chủ của tôi</a></li>
+						<li><a asp-controller="Admin" asp-action="Dashboard">Dashboard</a></li>
+					</ul>
+				</li>
+				<li>
+					<a asp-controller="Admin" asp-action="CuaHangThuCung" class="dropdown-toggle no-arrow">
+						<span class="micon dw dw-library"></span><span class="mtext">Cửu hàng thú cưng</span>
+					</a>
+				</li>
+				<li>
+					<a asp-controller="Admin" asp-action="LuuTruThuCung" class="dropdown-toggle no-arrow">
+						<span class="micon dw dw-library"></span><span class="mtext">Lưu trú thú cưng</span>
+					</a>
+				</li>
+				<li>
+					<a asp-controller="Admin" asp-action="Chart" class="dropdown-toggle no-arrow">
+						<span class="micon dw dw-analytics-21"></span><span class="mtext">Biểu đồ</span>
+					</a>
+				</li>
+
+				<li>
+					<a asp-controller="Admin" asp-action="StoreProduct" class="dropdown-toggle no-arrow">
+						<span class="micon dw dw-copy"></span><span class="mtext">Sản phẩm</span>
+					</a>
+				</li>
+				<li>
+					<a asp-controller="Admin" asp-action="Chat" class="dropdown-toggle no-arrow">
+						<span class="micon dw dw-chat3"></span><span class="mtext">Chat</span>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>

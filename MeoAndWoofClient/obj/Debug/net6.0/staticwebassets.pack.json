@@ -1,0 +1,3041 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MeoAndWoofClient.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MeoAndWoofClient.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\dropways\\dropways.css",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\dropways\\dropways.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\dropways\\dropways.eot",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\dropways\\dropways.eot"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\dropways\\dropways.svg",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\dropways\\dropways.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\dropways\\dropways.ttf",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\dropways\\dropways.ttf"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\dropways\\dropways.woff",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\dropways\\dropways.woff"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\foundation-icons\\foundation-icons.css",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\foundation-icons\\foundation-icons.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\foundation-icons\\foundation-icons.eot",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\foundation-icons\\foundation-icons.eot"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\foundation-icons\\foundation-icons.svg",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\foundation-icons\\foundation-icons.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\foundation-icons\\foundation-icons.ttf",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\foundation-icons\\foundation-icons.ttf"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\foundation-icons\\foundation-icons.woff",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\foundation-icons\\foundation-icons.woff"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\ionicons-master\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\ionicons-master\\css\\ionicons.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\ionicons-master\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\ionicons-master\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\ionicons-master\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\ionicons-master\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\ionicons-master\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\ionicons-master\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\ionicons-master\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\ionicons-master\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\ionicons-master\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\ionicons-master\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\fonts\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\admin\\src\\fonts\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\banner-img.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\banner-img.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\briefcase.svg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\briefcase.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\cancel.svg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\cancel.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\caution-sign.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\caution-sign.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\chat-img1.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\chat-img1.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\chat-img2.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\chat-img2.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\check-mark-green.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\check-mark-green.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\check-mark.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\check-mark.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\chrome.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\chrome.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\coming-soon.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\coming-soon.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\cross.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\cross.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\demo.svg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\demo.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\deskapp-logo-white.svg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\deskapp-logo-white.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\deskapp-logo.svg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\deskapp-logo.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\edge.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\edge.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\favicon-16x16.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\favicon-32x32.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\firefox.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\firefox.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\forgot-password.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\forgot-password.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\github.svg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\github.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\icon-Cash.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\icon-Cash.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\icon-debit.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\icon-debit.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\icon-online-wallet.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\icon-online-wallet.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\img.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\img.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\img1.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\img2.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\img3.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\img4.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\img4.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\img5.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\img5.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\internet-explorer.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\internet-explorer.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\layout\\header-dark.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\layout\\header-dark.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\layout\\header-white.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\layout\\header-white.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\layout\\sidebar-dark.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\layout\\sidebar-dark.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\layout\\sidebar-white.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\layout\\sidebar-white.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\login-page-img.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\login-page-img.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\logo-icon.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\menu-icon.svg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\menu-icon.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\modal-img1.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\modal-img1.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\modal-img2.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\modal-img2.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\modal-img3.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\modal-img3.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\new-loader.gif",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\new-loader.gif"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\opera.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\opera.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\page-icon.svg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\page-icon.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\person.svg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\person.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\photo1.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\photo1.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\photo2.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\photo2.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\photo3.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\photo3.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\photo4.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\photo4.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\photo5.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\photo5.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\photo6.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\photo6.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\photo7.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\photo7.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\photo8.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\photo8.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\photo9.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\photo9.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\plyr.svg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\plyr.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\product-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\product-1.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\product-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\product-2.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\product-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\product-3.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\product-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\product-4.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\product-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\product-5.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\product-img1.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\product-img1.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\product-img2.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\product-img2.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\product-img3.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\product-img3.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\product-img4.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\product-img4.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\profile-photo.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\profile-photo.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\register-page-img.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\register-page-img.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\safari.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\safari.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\success.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\success.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\tick.svg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\tick.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\upload-file-img.jpg",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\upload-file-img.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\images\\wave.png",
+      "PackagePath": "staticwebassets\\admin\\src\\images\\wave.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\css\\datepicker.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\css\\datepicker.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\css\\datepicker.min.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\css\\datepicker.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\js\\datepicker.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\js\\datepicker.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\js\\datepicker.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\js\\datepicker.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.cs.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.cs.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.da.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.da.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.de.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.de.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.en.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.en.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.es.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.es.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.fi.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.fi.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.fr.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.fr.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.hu.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.hu.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.nl.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.nl.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.pl.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.pl.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.pt-BR.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.pt-BR.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.pt.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.pt.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.ro.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.ro.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.sk.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.sk.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.zh.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.zh.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\apexcharts\\apexcharts.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\apexcharts\\apexcharts.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\bootstrap-select.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\bootstrap-select.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\css\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\css\\bootstrap-select.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\css\\bootstrap-select.css.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\css\\bootstrap-select.css.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\css\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\bootstrap-select.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\bootstrap-select.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\bootstrap-select.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\bootstrap-select.min.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-am_ET.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-am_ET.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-am_ET.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-am_ET.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-am_ET.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-am_ET.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ar_AR.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ar_AR.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ar_AR.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ar_AR.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ar_AR.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ar_AR.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-bg_BG.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-bg_BG.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-bg_BG.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-bg_BG.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-bg_BG.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-bg_BG.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-cs_CZ.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-cs_CZ.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-cs_CZ.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-cs_CZ.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-cs_CZ.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-cs_CZ.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-da_DK.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-da_DK.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-da_DK.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-da_DK.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-da_DK.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-da_DK.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-de_DE.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-de_DE.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-de_DE.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-de_DE.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-de_DE.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-de_DE.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-en_US.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-en_US.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-en_US.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-en_US.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-en_US.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-en_US.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_CL.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_CL.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_CL.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_CL.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_CL.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_CL.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_ES.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_ES.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_ES.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_ES.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_ES.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_ES.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-et_EE.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-et_EE.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-et_EE.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-et_EE.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-et_EE.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-et_EE.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-eu.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-eu.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-eu.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-eu.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-eu.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-eu.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fa_IR.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fa_IR.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fa_IR.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fa_IR.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fa_IR.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fa_IR.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fi_FI.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fi_FI.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fi_FI.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fi_FI.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fi_FI.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fi_FI.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fr_FR.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fr_FR.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fr_FR.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fr_FR.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fr_FR.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fr_FR.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hr_HR.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hr_HR.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hr_HR.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hr_HR.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hr_HR.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hr_HR.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hu_HU.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hu_HU.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hu_HU.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hu_HU.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hu_HU.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hu_HU.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-id_ID.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-id_ID.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-id_ID.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-id_ID.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-id_ID.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-id_ID.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-it_IT.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-it_IT.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-it_IT.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-it_IT.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-it_IT.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-it_IT.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ja_JP.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ja_JP.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ja_JP.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ja_JP.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ja_JP.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ja_JP.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-kh_KM.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-kh_KM.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-kh_KM.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-kh_KM.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-kh_KM.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-kh_KM.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ko_KR.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ko_KR.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ko_KR.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ko_KR.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ko_KR.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ko_KR.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lt_LT.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lt_LT.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lt_LT.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lt_LT.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lt_LT.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lt_LT.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lv_LV.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lv_LV.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lv_LV.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lv_LV.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lv_LV.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lv_LV.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nb_NO.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nb_NO.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nb_NO.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nb_NO.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nb_NO.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nb_NO.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nl_NL.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nl_NL.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nl_NL.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nl_NL.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nl_NL.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nl_NL.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pl_PL.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pl_PL.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pl_PL.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pl_PL.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pl_PL.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pl_PL.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_BR.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_BR.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_BR.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_BR.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_BR.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_BR.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_PT.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_PT.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_PT.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_PT.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_PT.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_PT.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ro_RO.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ro_RO.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ro_RO.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ro_RO.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ro_RO.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ro_RO.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ru_RU.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ru_RU.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ru_RU.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ru_RU.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ru_RU.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ru_RU.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sk_SK.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sk_SK.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sk_SK.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sk_SK.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sk_SK.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sk_SK.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sl_SI.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sl_SI.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sl_SI.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sl_SI.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sl_SI.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sl_SI.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sv_SE.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sv_SE.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sv_SE.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sv_SE.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sv_SE.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sv_SE.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-tr_TR.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-tr_TR.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-tr_TR.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-tr_TR.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-tr_TR.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-tr_TR.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ua_UA.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ua_UA.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ua_UA.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ua_UA.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ua_UA.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ua_UA.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-vi_VN.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-vi_VN.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-vi_VN.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-vi_VN.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-vi_VN.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-vi_VN.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_CN.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_CN.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_CN.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_CN.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_CN.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_CN.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_TW.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_TW.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_TW.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_TW.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_TW.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_TW.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\.jshintrc",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\.jshintrc"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-ar_AR.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-ar_AR.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-bg_BG.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-bg_BG.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-cro_CRO.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-cro_CRO.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-cs_CZ.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-cs_CZ.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-da_DK.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-da_DK.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-de_DE.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-de_DE.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-en_US.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-en_US.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-es_CL.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-es_CL.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-es_ES.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-es_ES.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-et_EE.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-et_EE.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-eu.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-eu.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-fa_IR.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-fa_IR.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-fi_FI.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-fi_FI.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-fr_FR.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-fr_FR.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-hu_HU.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-hu_HU.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-id_ID.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-id_ID.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-it_IT.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-it_IT.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-ja_JP.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-ja_JP.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-kh_KM.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-kh_KM.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-ko_KR.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-ko_KR.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-lt_LT.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-lt_LT.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-nb_NO.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-nb_NO.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-nl_NL.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-nl_NL.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-pl_PL.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-pl_PL.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-pt_BR.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-pt_BR.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-pt_PT.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-pt_PT.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-ro_RO.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-ro_RO.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-ru_RU.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-ru_RU.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-sk_SK.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-sk_SK.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-sl_SI.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-sl_SI.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-sv_SE.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-sv_SE.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-tr_TR.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-tr_TR.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-ua_UA.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-ua_UA.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-vi_VN.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-vi_VN.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-zh_CN.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-zh_CN.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-zh_TW.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\js\\i18n\\defaults-zh_TW.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-select\\test.html",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-select\\test.html"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-tagsinput\\bootstrap-tagsinput.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-tagsinput\\bootstrap-tagsinput.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-tagsinput\\bootstrap-tagsinput.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-tagsinput\\bootstrap-tagsinput.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-touchspin\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-touchspin\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-touchspin\\jquery.bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-touchspin\\jquery.bootstrap-touchspin.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-wysihtml5-master\\bootstrap-wysihtml5.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-wysihtml5-master\\bootstrap-wysihtml5.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap-wysihtml5-master\\bootstrap-wysihtml5.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap-wysihtml5-master\\bootstrap-wysihtml5.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\bootstrap\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\bootstrap\\popper.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\cropperjs\\dist\\cropper-init.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\cropperjs\\dist\\cropper-init.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\cropperjs\\dist\\cropper.common.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\cropperjs\\dist\\cropper.common.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\cropperjs\\dist\\cropper.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\cropperjs\\dist\\cropper.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\cropperjs\\dist\\cropper.esm.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\cropperjs\\dist\\cropper.esm.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\cropperjs\\dist\\cropper.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\cropperjs\\dist\\cropper.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\cropperjs\\dist\\cropper.min.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\cropperjs\\dist\\cropper.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\cropperjs\\dist\\cropper.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\cropperjs\\dist\\cropper.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\css\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\css\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\css\\responsive.dataTables.min.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\css\\responsive.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\images\\sort_asc.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\images\\sort_both.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\images\\sort_desc.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\js\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\js\\buttons.flash.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\js\\jszip.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\js\\jszip.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\js\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\js\\pdfmake.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\js\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\datatables\\js\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\datatables\\js\\vfs_fonts.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\dropzone\\src\\basic.scss",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\dropzone\\src\\basic.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\dropzone\\src\\dropzone.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\dropzone\\src\\dropzone.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\dropzone\\src\\dropzone.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\dropzone\\src\\dropzone.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\dropzone\\src\\dropzone.scss",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\dropzone\\src\\dropzone.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\fancybox\\dist\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\fancybox\\dist\\jquery.fancybox.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\fancybox\\dist\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\fancybox\\dist\\jquery.fancybox.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\fancybox\\dist\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\fancybox\\dist\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\fancybox\\dist\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\fancybox\\dist\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\fullcalendar\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\fullcalendar\\fullcalendar.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\highcharts-6.0.7\\code\\highcharts-3d.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\highcharts-6.0.7\\code\\highcharts-3d.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\highcharts-6.0.7\\code\\highcharts-3d.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\highcharts-6.0.7\\code\\highcharts-3d.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\highcharts-6.0.7\\code\\highcharts-3d.src.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\highcharts-6.0.7\\code\\highcharts-3d.src.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\highcharts-6.0.7\\code\\highcharts-more.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\highcharts-6.0.7\\code\\highcharts-more.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\highcharts-6.0.7\\code\\highcharts-more.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\highcharts-6.0.7\\code\\highcharts-more.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\highcharts-6.0.7\\code\\highcharts-more.src.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\highcharts-6.0.7\\code\\highcharts-more.src.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\highcharts-6.0.7\\code\\highcharts.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\highcharts-6.0.7\\code\\highcharts.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\highcharts-6.0.7\\code\\highcharts.js.map",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\highcharts-6.0.7\\code\\highcharts.js.map"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\highcharts-6.0.7\\code\\highcharts.src.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\highcharts-6.0.7\\code\\highcharts.src.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\highlight.js\\src\\highlight.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\highlight.js\\src\\highlight.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\highlight.js\\src\\highlight.pack.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\highlight.js\\src\\highlight.pack.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\highlight.js\\src\\styles\\solarized-dark.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\highlight.js\\src\\styles\\solarized-dark.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\ion-rangeslider\\css\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\ion-rangeslider\\css\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\ion-rangeslider\\js\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\ion-rangeslider\\js\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\jQuery-Knob-master\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\jQuery-Knob-master\\jquery.knob.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\jquery-asColorPicker\\dist\\css\\asColorPicker.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\jquery-asColorPicker\\dist\\css\\asColorPicker.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\jquery-asColorPicker\\dist\\images\\alpha.png",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\jquery-asColorPicker\\dist\\images\\alpha.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\jquery-asColorPicker\\dist\\images\\hue.png",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\jquery-asColorPicker\\dist\\images\\hue.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\jquery-asColorPicker\\dist\\images\\saturation.png",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\jquery-asColorPicker\\dist\\images\\saturation.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\jquery-asColorPicker\\dist\\images\\transparent.png",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\jquery-asColorPicker\\dist\\images\\transparent.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\jquery-asColorPicker\\jquery-asColorPicker.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\jquery-asColorPicker\\jquery-asColorPicker.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\jquery-asColor\\dist\\jquery-asColor.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\jquery-asColor\\dist\\jquery-asColor.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\jquery-asGradient\\dist\\jquery-asGradient.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\jquery-asGradient\\dist\\jquery-asGradient.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\jquery-steps\\jquery.steps.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\jquery-steps\\jquery.steps.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\jquery-steps\\jquery.steps.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\jquery-steps\\jquery.steps.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\jvectormap\\jquery-jvectormap-2.0.3.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\jvectormap\\jquery-jvectormap-2.0.3.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\jvectormap\\jquery-jvectormap-2.0.3.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\jvectormap\\jquery-jvectormap-2.0.3.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\jvectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\jvectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\jvectormap\\jquery-jvectormap.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\jvectormap\\jquery-jvectormap.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\jvectormap\\jquery-jvectormap.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\jvectormap\\jquery-jvectormap.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mCustomScrollbar.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mCustomScrollbar.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mCustomScrollbar.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mCustomScrollbar.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\plyr\\dist\\plyr.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\plyr\\dist\\plyr.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\plyr\\dist\\plyr.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\plyr\\dist\\plyr.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\plyr\\dist\\plyr.svg",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\plyr\\dist\\plyr.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\css\\select2.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\css\\select2.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\css\\select2.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\af.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\af.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\ar.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\ar.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\az.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\az.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\bg.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\bg.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\bs.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\bs.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\ca.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\ca.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\cs.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\cs.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\da.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\da.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\de.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\de.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\dsb.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\dsb.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\el.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\el.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\en.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\en.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\es.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\es.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\et.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\et.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\eu.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\eu.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\fa.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\fa.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\fi.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\fi.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\fr.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\fr.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\gl.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\gl.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\he.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\he.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\hi.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\hi.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\hr.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\hr.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\hsb.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\hsb.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\hu.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\hu.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\hy.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\hy.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\id.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\id.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\is.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\is.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\it.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\it.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\ja.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\ja.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\km.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\km.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\ko.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\ko.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\lt.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\lt.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\lv.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\lv.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\mk.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\mk.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\ms.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\ms.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\nb.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\nb.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\nl.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\nl.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\pl.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\pl.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\ps.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\ps.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\pt-BR.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\pt-BR.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\pt.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\pt.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\ro.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\ro.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\ru.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\ru.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\sk.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\sk.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\sl.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\sl.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\sr-Cyrl.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\sr-Cyrl.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\sr.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\sr.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\sv.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\sv.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\th.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\th.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\tk.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\tk.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\tr.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\tr.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\uk.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\uk.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\vi.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\vi.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\zh-CN.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\zh-CN.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\zh-TW.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\i18n\\zh-TW.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\select2.full.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\select2.full.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\select2.full.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\select2.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\select2.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\select2\\dist\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\select2\\dist\\js\\select2.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\slick\\slick.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\slick\\slick.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\sweetalert2\\sweet-alert.init.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\sweetalert2\\sweet-alert.init.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\sweetalert2\\sweetalert2.all.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\sweetalert2\\sweetalert2.all.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\sweetalert2\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\sweetalert2\\sweetalert2.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\switchery\\switchery.min.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\switchery\\switchery.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\switchery\\switchery.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\switchery\\switchery.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\timedropper\\timedropper.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\timedropper\\timedropper.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\timedropper\\timedropper.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\timedropper\\timedropper.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\timedropper\\timedropper.min.css",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\timedropper\\timedropper.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\timedropper\\timedropper.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\timedropper\\timedropper.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\plugins\\wysihtml5-master\\dist\\wysihtml5-0.3.0.js",
+      "PackagePath": "staticwebassets\\admin\\src\\plugins\\wysihtml5-master\\dist\\wysihtml5-0.3.0.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\scripts\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\scripts\\clipboard.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\scripts\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\src\\scripts\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\scripts\\moment.js",
+      "PackagePath": "staticwebassets\\admin\\src\\scripts\\moment.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\scripts\\setting.js",
+      "PackagePath": "staticwebassets\\admin\\src\\scripts\\setting.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\styles\\media.css",
+      "PackagePath": "staticwebassets\\admin\\src\\styles\\media.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\styles\\style.css",
+      "PackagePath": "staticwebassets\\admin\\src\\styles\\style.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\src\\styles\\theme.css",
+      "PackagePath": "staticwebassets\\admin\\src\\styles\\theme.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\dropways.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\dropways.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\dropways.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\dropways.eot"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\dropways.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\dropways.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\dropways.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\dropways.ttf"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\dropways.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\dropways.woff"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\foundation-icons.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\foundation-icons.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\foundation-icons.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\foundation-icons.eot"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\foundation-icons.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\foundation-icons.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\foundation-icons.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\foundation-icons.ttf"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\foundation-icons.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\foundation-icons.woff"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\ionicons-master\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\ionicons-master\\css\\ionicons.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\ionicons-master\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\ionicons-master\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\themify.eot"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\themify.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fonts\\themify.woff"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\banner-img.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\banner-img.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\blue-logo.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\blue-logo.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\briefcase.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\briefcase.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\cancel.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\cancel.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\caution-sign.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\caution-sign.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\chat-img1.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\chat-img1.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\chat-img2.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\chat-img2.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\check-mark-green.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\check-mark-green.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\check-mark.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\check-mark.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\chrome.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\chrome.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\coming-soon.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\coming-soon.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\cross.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\cross.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\demo.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\demo.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\deskapp-logo-white.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\deskapp-logo-white.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\deskapp-logo.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\deskapp-logo.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\edge.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\edge.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\favicon-16x16.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\favicon-32x32.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\firefox.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\firefox.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\forgot-password.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\forgot-password.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\github.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\github.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\icon-Cash.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\icon-Cash.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\icon-debit.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\icon-debit.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\icon-online-wallet.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\icon-online-wallet.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\img.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\img.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\img1.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\img2.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\img3.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\img4.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\img4.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\img5.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\img5.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\internet-explorer.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\internet-explorer.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\layout\\header-dark.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\layout\\header-dark.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\layout\\header-white.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\layout\\header-white.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\layout\\sidebar-dark.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\layout\\sidebar-dark.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\layout\\sidebar-white.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\layout\\sidebar-white.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\login-img.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\login-img.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\login-page-img.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\login-page-img.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\logo-icon.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\menu-icon.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\menu-icon.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\modal-img1.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\modal-img1.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\modal-img2.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\modal-img2.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\modal-img3.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\modal-img3.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\new-loader.gif",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\new-loader.gif"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\opera.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\opera.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\page-icon.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\page-icon.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\person.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\person.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\photo1.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\photo1.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\photo2.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\photo2.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\photo3.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\photo3.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\photo4.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\photo4.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\photo5.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\photo5.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\photo6.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\photo6.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\photo7.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\photo7.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\photo8.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\photo8.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\photo9.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\photo9.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\plyr.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\plyr.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\product-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\product-1.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\product-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\product-2.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\product-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\product-3.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\product-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\product-4.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\product-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\product-5.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\product-img1.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\product-img1.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\product-img2.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\product-img2.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\product-img3.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\product-img3.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\product-img4.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\product-img4.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\profile-photo.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\profile-photo.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\register-page-img.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\register-page-img.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\safari.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\safari.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\success.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\success.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\tick.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\tick.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\upload-file-img.jpg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\upload-file-img.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\images\\wave.png",
+      "PackagePath": "staticwebassets\\admin\\vendors\\images\\wave.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\scripts\\advanced-components.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\scripts\\advanced-components.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\scripts\\apexcharts-setting.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\scripts\\apexcharts-setting.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\scripts\\calendar-setting.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\scripts\\calendar-setting.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\scripts\\colorpicker.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\scripts\\colorpicker.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\scripts\\core.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\scripts\\core.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\scripts\\core.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\scripts\\core.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\scripts\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\scripts\\dashboard.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\scripts\\dashboard2.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\scripts\\dashboard2.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\scripts\\datatable-setting.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\scripts\\datatable-setting.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\scripts\\highchart-setting.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\scripts\\highchart-setting.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\scripts\\jvectormap-setting.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\scripts\\jvectormap-setting.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\scripts\\knob-chart-setting.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\scripts\\knob-chart-setting.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\scripts\\layout-settings.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\scripts\\layout-settings.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\scripts\\process.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\scripts\\process.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\scripts\\range-slider-setting.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\scripts\\range-slider-setting.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\scripts\\script.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\scripts\\script.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\scripts\\script.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\scripts\\script.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\scripts\\steps-setting.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\scripts\\steps-setting.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\styles\\core.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\styles\\core.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\styles\\core.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\styles\\core.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\styles\\icon-font.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\styles\\icon-font.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\styles\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\styles\\icon-font.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\styles\\style.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\styles\\style.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\admin\\vendors\\styles\\style.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\styles\\style.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\css\\common\\login-style.css",
+      "PackagePath": "staticwebassets\\css\\common\\login-style.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\css\\common\\style.css",
+      "PackagePath": "staticwebassets\\css\\common\\style.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\css\\pages\\history.css",
+      "PackagePath": "staticwebassets\\css\\pages\\history.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\css\\pages\\navbar.css",
+      "PackagePath": "staticwebassets\\css\\pages\\navbar.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\css\\pages\\services-detail.css",
+      "PackagePath": "staticwebassets\\css\\pages\\services-detail.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\css\\pages\\shop-detail.css",
+      "PackagePath": "staticwebassets\\css\\pages\\shop-detail.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\css\\pages\\shop-purchase.css",
+      "PackagePath": "staticwebassets\\css\\pages\\shop-purchase.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\img\\about-3.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\avatar\\770d46e8-ed6f-4348-986d-d293701c94f3_anh-4k-chu-soi-tuyet-rat-de-thuong_085125853.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar\\770d46e8-ed6f-4348-986d-d293701c94f3_anh-4k-chu-soi-tuyet-rat-de-thuong_085125853.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\avatar\\9ef8c945-8699-4d17-b508-70986ced3192_pexels-han-sen-8536360.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar\\9ef8c945-8699-4d17-b508-70986ced3192_pexels-han-sen-8536360.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\avatar\\a28b983e-0b0e-473c-a564-e31f1cab54b2_4437230.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar\\a28b983e-0b0e-473c-a564-e31f1cab54b2_4437230.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\avatar\\c5cfed6a-5920-4c33-8812-65eb4f9505ed_pexels-evgeny-tchebotarev-2187661.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar\\c5cfed6a-5920-4c33-8812-65eb4f9505ed_pexels-evgeny-tchebotarev-2187661.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-1.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-2.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-3.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\feature.jpg",
+      "PackagePath": "staticwebassets\\img\\feature.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\icons\\amex.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\amex.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\icons\\mastercard.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\mastercard.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\icons\\paypal.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\paypal.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\icons\\visa.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\visa.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\login-wallpaper.jpg",
+      "PackagePath": "staticwebassets\\img\\login-wallpaper.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\pets\\4b4ccb5f-9866-4b56-bf4b-99caad915f2a_anh-thu-cung-cute-de-thuong_014113010.jpg",
+      "PackagePath": "staticwebassets\\img\\pets\\4b4ccb5f-9866-4b56-bf4b-99caad915f2a_anh-thu-cung-cute-de-thuong_014113010.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\price-1.jpg",
+      "PackagePath": "staticwebassets\\img\\price-1.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\price-2.jpg",
+      "PackagePath": "staticwebassets\\img\\price-2.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\price-3.jpg",
+      "PackagePath": "staticwebassets\\img\\price-3.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\store\\0a8efc22-54dc-4d5d-ac5d-7a0ae1d88ec3_anh-4k-chu-soi-tuyet-rat-de-thuong_085125853.jpg",
+      "PackagePath": "staticwebassets\\img\\store\\0a8efc22-54dc-4d5d-ac5d-7a0ae1d88ec3_anh-4k-chu-soi-tuyet-rat-de-thuong_085125853.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\img\\user.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\img\\vertical-image.jpg",
+      "PackagePath": "staticwebassets\\img\\vertical-image.jpg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\js\\login-script.js",
+      "PackagePath": "staticwebassets\\js\\login-script.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\flaticon\\font\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.woff2"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\mail\\contact.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\mail\\contact.php"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "E:\\Chuyen nganh\\Dotnet\\EXE\\EXE_MeoAndWoof_API\\MeoAndWoofClient\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MeoAndWoofClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MeoAndWoofClient.props",
+      "PackagePath": "build\\MeoAndWoofClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MeoAndWoofClient.props",
+      "PackagePath": "buildMultiTargeting\\MeoAndWoofClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MeoAndWoofClient.props",
+      "PackagePath": "buildTransitive\\MeoAndWoofClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

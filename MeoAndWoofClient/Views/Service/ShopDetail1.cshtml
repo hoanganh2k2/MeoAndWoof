@@ -1,0 +1,593 @@
+﻿@model BusinessObject.ObjectView.ShopDetail1View;
+@using System.Globalization;
+@{
+    ViewData["Title"] = "Shop Detail1";
+    Layout = null;
+    string NameUser = Context.Request.HttpContext.Session.GetString("NameUser");
+    string PhoneUser = Context.Request.HttpContext.Session.GetString("PhoneUser");
+    var loggedInUserId = Context.Request.HttpContext.Session.GetInt32("UserId");
+    int serviceId = ViewBag.ServiceId;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Meow & Woof - Pet Care Website</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta content="Free HTML Templates" name="keywords" />
+    <meta content="Free HTML Templates" name="description" />
+
+    <!-- Favicon -->
+    <link href="/img/favicon.ico" rel="icon" />
+
+    <!-- Google Web Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Nunito:wght@600;700;800&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Font Awesome -->
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css"
+      rel="stylesheet"
+    />
+
+    <!-- Flaticon Font -->
+    <link href="/lib/flaticon/font/flaticon.css" rel="stylesheet" />
+
+    <!-- Libraries Stylesheet -->
+    <link href="/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
+    <link
+      href="/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/84e176b008.js"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="/css/common/style.css" rel="stylesheet" />
+    <link href="/css/pages/navbar.css" rel="stylesheet" />
+    <link href="/css/pages/shop-detail.css" rel="stylesheet" />
+    <link href="/css/pages/shop-purchase.css" rel="stylesheet" />
+  </head>
+
+  <body>
+    @Html.Partial("Header")
+    <!-- Services Start -->
+    <div class="container-fluid bg-light pt-5">
+      <div class="container py-5">
+        <div class="row">
+          <div class="col-md-7">
+            <div class="d-flex justify-content-start">
+              <!-- SHOP DETAIL -->
+              <div class="avatar-shop">
+                <img
+                  class="rounded-circle"
+                  src="@Model.userDTO.Userimage"
+                  width="100px"
+                  height="100px"
+                />
+              </div>
+              <div class="ml-5">
+                <div class="name-shop">
+                  <h3>@Model.serviceDTO.Servicename</h3>
+                  <div>By @Model.userDTO.Fullname</div>
+                </div>
+                <div style="font-weight: bold; color: #008000">
+                    <i class="mt-4 fa-regular fa-calendar"></i>
+                    &nbsp;&nbsp;@Model.serviceDTO.ServiceNumberBooking đặt chỗ thành công &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    @Model.serviceDTO.Servicestar⭐  &nbsp;&nbsp;@Model.serviceDTO.ServiceNumberReview đánh giá
+                </div>
+              </div>
+            </div>
+            <hr />
+            <div class="address-shop mt-4 mb-4">
+              <p>
+                <i class="fa-solid fa-location-dot"></i> Location: @Model.serviceDTO.Address
+              </p>
+              <hr />
+              <div style="margin-top: 30px" class="tab" role="tabpanel">
+                <!-- Nav tabs -->
+                <ul class="nav nav-tabs" role="tablist">
+                    <li role="presentation" class="active">
+                        <a href="#dog" aria-controls="dog" role="tab" data-toggle="tab">Chó</a>
+                    </li>
+                    <li role="presentation">
+                        <a href="#cat" aria-controls="cat" role="tab" data-toggle="tab">Mèo</a>
+                    </li>
+                    <li role="presentation">
+                        <a href="#accessories" aria-controls="accessories" role="tab" data-toggle="tab">Phụ Kiện</a>
+                    </li>
+                    <li role="presentation">
+                        <a href="#food" aria-controls="food" role="tab" data-toggle="tab">Thức Ăn</a>
+                    </li>
+                </ul>
+                <!-- Tab panes -->
+                <div class="tab-content tabs">
+                  <div role="tabpanel" class="tab-pane active" id="dog">
+                    @foreach(var dog in Model.productDTOs.Where(s => s.Categoryid == 1))
+                    {
+                        <!-- ITEM  -->
+                        <div class="row p-2 bg-white border rounded">
+                          <div class="col-md-3 mt-1">
+                            <img
+                              class="img-fluid img-responsive rounded product-image"
+                              src="@dog.Productimage"
+                            />
+                          </div>
+                          <div class="col-md-6 mt-1">
+                            <h5>@dog.Productname</h5>
+                            <div class="mt-1 mb-1 spec-1">
+                              @* <span>@dog.Description</span> *@
+                            </div>
+                          </div>
+                          <div
+                            class="align-items-center align-content-center col-md-3 border-left mt-1"
+                          >
+                            <div class="d-flex flex-row align-items-center">
+                                @{
+                                    var currentPrice = dog.currentPrice ?? 0;
+                                    var discount = dog.Productdiscount ?? 0;
+                                    var finalPrice = currentPrice * (100 - discount) / 100;
+                                    var cultureInfo = new CultureInfo("vi-VN");
+                                    var formattedPrice1 = string.Format(cultureInfo, "{0:N0} VND", finalPrice);
+                                    var formattedPrice2 = string.Format(cultureInfo, "{0:N0}VND", dog.currentPrice);
+                                }
+                                <h4 class="mr-1">@formattedPrice1</h4>
+                            </div>
+                            @if (dog.Productdiscount != 0)
+                            {
+                                <h6 class="strike-text">@formattedPrice2</h6>
+                            }
+                            <h6 class="text-success">Free shipping</h6>
+                            <div class="d-flex flex-column mt-4">
+                            <button class="btn btn-outline-primary btn-sm mt-2 addToOrderBtn" type="button" data-product-id="@dog.Productid">
+                                Add to Cart
+                              </button>
+                            </div>
+                          </div>
+                        </div>
+                    }
+                  </div>
+                  <div role="tabpanel" class="tab-pane fade" id="cat">
+                    @foreach (var cat in Model.productDTOs.Where(s => s.Categoryid == 2))
+                    {
+                        <!-- ITEM  -->
+                        <div class="row p-2 bg-white border rounded">
+                            <div class="col-md-3 mt-1">
+                                <img class="img-fluid img-responsive rounded product-image"
+                                        src="@cat.Productimage" />
+                            </div>
+                            <div class="col-md-6 mt-1">
+                                <h5>@cat.Productname</h5>
+                                <div class="mt-1 mb-1 spec-1">
+                                    @* <span>@dog.Description</span> *@
+                                </div>
+                            </div>
+                            <div class="align-items-center align-content-center col-md-3 border-left mt-1">
+                                <div class="d-flex flex-row align-items-center">
+                                    @{
+                                        var currentPrice = cat.currentPrice ?? 0;
+                                        var discount = cat.Productdiscount ?? 0;
+                                        var finalPrice = currentPrice * (100 - discount) / 100;
+                                        var cultureInfo = new CultureInfo("vi-VN");
+                                        var formattedPrice1 = string.Format(cultureInfo, "{0:N0} VND", finalPrice);
+                                        var formattedPrice2 = string.Format(cultureInfo, "{0:N0}VND", cat.currentPrice);
+                                    }
+                                    <h4 class="mr-1">@formattedPrice1</h4>
+                                </div>
+                                @if (cat.Productdiscount != 0)
+                                {
+                                    <h6 class="strike-text">@formattedPrice2</h6>
+                                }
+                                <h6 class="text-success">Free shipping</h6>
+                                <div class="d-flex flex-column mt-4">
+                                    <button class="btn btn-outline-primary btn-sm mt-2 addToOrderBtn" type="button" data-product-id="@cat.Productid">
+                                        Add to Cart
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                  </div>
+                  <div role="tabpanel" class="tab-pane fade" id="accessories">
+                    @foreach (var clothes in Model.productDTOs.Where(s => s.Categoryid == 3))
+                    {
+                        <!-- ITEM  -->
+                        <div class="row p-2 bg-white border rounded">
+                            <div class="col-md-3 mt-1">
+                                <img class="img-fluid img-responsive rounded product-image"
+                                        src="@clothes.Productimage" />
+                            </div>
+                            <div class="col-md-6 mt-1">
+                                <h5>@clothes.Productname</h5>
+                                <div class="mt-1 mb-1 spec-1">
+                                    @* <span>@dog.Description</span> *@
+                                </div>
+                            </div>
+                            <div class="align-items-center align-content-center col-md-3 border-left mt-1">
+                                <div class="d-flex flex-row align-items-center">
+                                    @{
+                                        var currentPrice = clothes.currentPrice ?? 0;
+                                        var discount = clothes.Productdiscount ?? 0;
+                                        var finalPrice = currentPrice * (100 - discount) / 100;
+                                        var cultureInfo = new CultureInfo("vi-VN");
+                                        var formattedPrice1 = string.Format(cultureInfo, "{0:N0} VND", finalPrice);
+                                        var formattedPrice2 = string.Format(cultureInfo, "{0:N0}VND", clothes.currentPrice);
+                                    }
+                                    <h4 class="mr-1">@formattedPrice1</h4>
+                                </div>
+                                @if (clothes.Productdiscount != 0)
+                                {
+                                    <h6 class="strike-text">@formattedPrice2</h6>
+                                }
+                                <h6 class="text-success">Free shipping</h6>
+                                <div class="d-flex flex-column mt-4">
+                                    <button class="btn btn-outline-primary btn-sm mt-2 addToOrderBtn" type="button" data-product-id="@clothes.Productid">
+                                        Add to Cart
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                  </div>
+                  <div role="tabpanel" class="tab-pane fade" id="food">
+                    @foreach (var food in Model.productDTOs.Where(s => s.Categoryid == 4))
+                    {
+                        <!-- ITEM  -->
+                        <div class="row p-2 bg-white border rounded">
+                            <div class="col-md-3 mt-1">
+                                <img class="img-fluid img-responsive rounded product-image"
+                                        src="@food.Productimage" />
+                            </div>
+                            <div class="col-md-6 mt-1">
+                                <h5>@food.Productname</h5>
+                                <div class="mt-1 mb-1 spec-1">
+                                    @* <span>@dog.Description</span> *@
+                                </div>
+                            </div>
+                            <div class="align-items-center align-content-center col-md-3 border-left mt-1">
+                                <div class="d-flex flex-row align-items-center">
+                                    @{
+                                        var currentPrice = food.currentPrice ?? 0;
+                                        var discount = food.Productdiscount ?? 0;
+                                        var finalPrice = currentPrice * (100 - discount) / 100;
+                                        var cultureInfo = new CultureInfo("vi-VN");
+                                        var formattedPrice1 = string.Format(cultureInfo, "{0:N0} VND", finalPrice);
+                                        var formattedPrice2 = string.Format(cultureInfo, "{0:N0}VND", food.currentPrice);
+                                    }
+                                    <h4 class="mr-1">@formattedPrice1</h4>
+                                </div>
+                                @if (food.Productdiscount != 0)
+                                {
+                                    <h6 class="strike-text">@formattedPrice2</h6>
+                                }
+                                <h6 class="text-success">Free shipping</h6>
+                                <div class="d-flex flex-column mt-4">
+                                    <button class="btn btn-outline-primary btn-sm mt-2 addToOrderBtn" type="button" data-product-id="@food.Productid">
+                                        Add to Cart
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                  </div>
+                </div>
+              </div>
+            </div>
+            <hr />
+          </div>
+          <!-- INFO START -->
+          <div class="col-md-5">
+            <div style="position: -webkit-sticky; position: sticky; top: 0">
+              <div class="card pb-0">
+                <div class="card-header text-center">
+                  <h4 class="mt-3">Cart</h4>
+                </div>
+                <!-- ITEM CART START-->
+                <!--  -->
+                <div class="card-body" id="cart-items">
+                    <h5 style="text-align: center;">Giỏ hàng trống</h5>
+                </div>
+                <!--  -->
+                <hr />
+                <div class="icons d-flex justify-content-between">
+                  <img src="/img/icons/visa.svg" width="70px" />
+                  <img src="/img/icons/mastercard.svg" width="70px" />
+                  <img src="/img/icons/paypal.svg" width="70px" />
+                  <img src="/img/icons/amex.svg" width="70px" />
+                </div>
+                <hr />
+                <div class="m-3">
+                    <form id="order-form" method="post" action="/Service/Book1" class="">
+                        <input name="ServiceId" type="number" value="@serviceId" hidden />
+                        <div class="form-group">
+                            <input type="text"
+                            @if (NameUser != null)
+                            {
+                                <text>value="@NameUser" readonly</text>
+                            }
+                            class="form-control  p-4" placeholder="Tên của bạn" required="required" />
+                        </div>
+                        <div class="form-group">
+                            <input type="tel" id="phoneInput"
+                            @if (NameUser != null)
+                            {
+                                <text>value="@PhoneUser" readonly</text>
+                            }
+                            class="form-control  p-4" placeholder="Số điện thoại" required="required" pattern="[0-9]{10}" oninput="validatePhoneInput(this)"/>
+                        </div>
+                        <div class="form-group">
+                            <textarea asp-for="@Model.userDTO.Address"
+                                        placeholder="Địa chỉ"
+                                        class="form-control pl-4 pt-3"
+                                        rows="3" required
+                            ></textarea>
+                        </div>
+                        <div class="form-group">
+                            <select asp-for=@Model.postOrder.Status class="custom-select px-4"
+                                    style="height: 47px">
+                                    <option value="1">Thanh toán khi nhận hàng</option>
+                                    <option value="2">Thanh toán bằng thẻ ngân hàng(VnPay)</option>
+                                    <option value="3">Thanh toán bằng thẻ ngân hàng(PayOS)</option>
+                            </select>
+                        </div>
+                        <div>
+                            <button id="place-order-btn" class="w-100 btn btn-lg btn-success">
+                                Đặt ngay <i class="fa-solid fa-bars ml-3"></i>
+                            </button>
+                        </div>
+                        <input type="text" id="listItems" name="listItemsJson" hidden/>
+                        <input type="number" id="sum" name="sum" hidden/>
+                    </form>
+                </div>
+                <!-- ITEM CART END-->
+              </div>
+            </div>
+          </div>
+          <!-- INFO END EDIT HERE -->
+        </div>
+      </div>
+    </div>
+    <!-- Services End EDIT HERE-->
+
+    <!-- Testimonial Start -->
+    <div class="container-fluid p-0 py-5">
+        <section style="background-color: #eee;">
+            <div class="container my-5 py-5">
+                <div class="row d-flex justify-content-center">
+                    <div class="card w-100">
+                        <div class="card-body">
+                            @foreach (var comment in Model.CommentDTOs)
+                            {
+                                <div class="d-flex flex-start align-items-center mb-3">
+                                    @foreach (var user in Model.allUsersDTO)
+                                    {
+                                        @if (user.Userid == comment.Userid)
+                                        {
+                                            <img class="rounded-circle shadow-1-strong me-3"
+                                                 src="@user.Userimage" alt="avatar" width="60" height="60" />
+                                            <div>
+                                                <h6 class="fw-bold text-primary mb-1">@user.Fullname</h6>
+                                                <p class="text-muted small mb-0">
+                                                    Shared publicly - @comment.CreateAt
+                                                </p>
+                                            </div>
+                                            break;
+                                        }
+                                    }
+                                </div>
+
+                                    <p class="mt-3 mb-4 pb-2">
+                                        @comment.Content
+                                    @if (loggedInUserId == comment.Userid)
+                                        {
+                                        <a href="@Url.Action("DeleteComment", "Service", new { commentId = comment.Commentid, serviceId = ViewBag.ServiceId })">
+                                                <i class="fas fa-trash-alt ms-2 text-danger"></i>
+                                            </a>
+                                        }
+                                    </p>
+
+
+                                <div class="small d-flex justify-content-start">
+                                    <a href="#!" class="d-flex align-items-center me-3">
+                                        <i class="far fa-thumbs-up me-2"></i>
+                                        <p class="mb-0">Like</p>
+                                    </a><h1>&nbsp;&nbsp;&nbsp;</h1>
+                                    <a href="#!" class="d-flex align-items-center me-3">
+                                        <i class="far fa-comment-dots me-2"></i>
+                                        <p class="mb-0">Comment</p>
+                                    </a><h1>&nbsp;&nbsp;&nbsp;</h1>
+                                    <a href="#!" class="d-flex align-items-center me-3">
+                                        <i class="fas fa-share me-2"></i>
+                                        <p class="mb-0">Share</p>
+                                    </a>
+                                </div>
+                                <hr />
+                            }
+
+                            @if(Model.loggedInUserDTO != null)
+                            {
+                                <div class="card-footer py-3 border-0" style="background-color: #f8f9fa;">
+                                    <form method="post" asp-action="PostMessage">
+                                        <div class="d-flex flex-start w-100">
+                                            <img class="rounded-circle shadow-1-strong me-3"
+                                                 src="@Model.loggedInUserDTO.Userimage" alt="avatar" width="40" height="40" />
+                                            <div data-mdb-input-init class="form-outline w-100">
+                                                <textarea class="form-control" name="Content" id="commentContent" rows="4"
+                                                          style="background: #fff;"></textarea>
+                                                <label class="form-label" for="textAreaExample">Message</label>
+                                            </div>
+                                        </div>
+                                        <input type="hidden" name="Serviceid" value="@ViewBag.ServiceId" />
+                                        <input type="hidden" name="Userid" value="@Model.loggedInUserDTO.Userid" />
+                                        <div class="float-end mt-2 pt-1">
+                                            <button type="submit" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-sm">Post comment</button>
+                                        </div>
+                                    </form>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <!-- Testimonial End -->
+    @Html.Partial("Footer")
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="/lib/easing/easing.min.js"></script>
+    <script src="/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="/lib/tempusdominus/js/moment.min.js"></script>
+    <script src="/lib/tempusdominus/js/moment-timezone.min.js"></script>
+    <script src="/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
+
+    <!-- Contact Javascript File -->
+    <script src="/mail/jqBootstrapValidation.min.js"></script>
+    <script src="/mail/contact.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="/js/main.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+                $('.nav-tabs li').removeClass('active');
+                $(e.target).parent().addClass('active');
+            });
+        });
+    </script>
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+                const listItems = [];
+                let sum = 0;
+                // handle add to listItems
+                $('.addToOrderBtn').click(function () {
+                    const productID = $(this).data('product-id');
+                    const quantity = 1;
+
+                    $.ajax({
+                        url: "https://localhost:7086/api/product/" + productID,
+                        type: "GET",
+                        success: function (result) {
+                        const productImage = result.productimage;
+                        const productName = result.productname;
+                        const productPrice = result.currentPrice ?? 0;
+                        const productDiscount = result.productdiscount ?? 0;
+                        const finalPrice = productPrice * (100 - productDiscount) / 100;
+                        const formattedPrice = new Intl.NumberFormat('vi-VN', { style: 'currency', currency: 'VND' }).format(finalPrice);
+
+                        const previousItem = listItems.find(x => x.productid == productID);
+                            if (previousItem) {
+                                previousItem.quantity = parseInt(previousItem.quantity) + parseInt(quantity);
+                            } else {
+                                const item = {
+                                    "productid": productID,
+                                    "productName": productName,
+                                    "price": formattedPrice,
+                                    "producimage": productImage,
+                                    "quantity": quantity
+                                }
+
+                                listItems.push(item);
+                            }
+                            renderListItems();
+                        },
+                        error: function (xhr, status, error) {
+                            console.log(xhr);
+                            alert("Đã xảy ra lỗi khi thêm sản phẩm vào giỏ hàng. Vui lòng thử lại.");
+                        }
+                    });
+                });
+
+                function renderListItems() {
+                    $("#cart-items").empty();
+                    if (listItems.length == 0) {
+                    $("#cart-items").append(`<h5 style="text-align: center;">Giỏ hàng trống</h5>`);
+                        return;
+                    }
+                    sum = 0;
+                    $.each(listItems, function (key, item) {
+                        const cleanPrice = parseInt(item.price.replace(/[^0-9]/g, ''), 10);
+                        const cartItemHtml = `
+                                                        <div class="d-flex justify-content-between" style="padding: 3px;">
+                                                            <div class="d-flex flex-row align-items-center">
+                                                                <div>
+                                                                    <img
+                                                                        src="${item.producimage}"
+                                                                        class="img-fluid rounded-3 mr-2"
+                                                                        alt="Shopping item"
+                                                                        style="width: 65px"
+                                                                    />
+                                                                </div>
+                                                                <div class="ms-3">
+                                                                    <h5 class="product-name">${item.productName}</h5>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex flex-row align-items-center">
+                                                                <div class="mr-2">
+                                                                    <input
+                                                                        style="width: 40px"
+                                                                        type="number"
+                                                                        min="1"
+                                                                        value="${item.quantity}"
+                                                                        class="quantity-input"
+                                                                    />
+                                                                </div>
+                                                                <div style="width: 120px">
+                                                                    <h5 class="mb-0">${item.price}</h5>
+                                                                </div>
+                                                                <a href="#!" style="color: #cecece" class="remove-cart-item" data-product-id="${item.productid}">
+                                                                    <i class="fas fa-trash-alt"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    `;
+
+                        $('#cart-items').append(cartItemHtml);
+                        sum = sum + (parseInt(item.quantity, 10) * cleanPrice);
+                    });
+                    const formattedPrice = new Intl.NumberFormat('vi-VN', { style: 'currency', currency: 'VND' }).format(sum);
+                    $('#cart-items').append(`<h5 style="text-align: right;">Tổng tiền: ${formattedPrice}</h5>`);
+                }
+
+                $(document).on('input', '.quantity-input', function () {
+                    const newQuantity = $(this).val();
+                    const productID = $(this).closest('.d-flex').find('.remove-cart-item').data('product-id');
+                    const previousItem = listItems.find(x => x.productid == productID);
+                    previousItem.quantity = parseInt(newQuantity);
+                    renderListItems();
+                });
+
+                $(document).on('click', '.remove-cart-item', function () {
+                    const productID = $(this).data('product-id');
+                    const index = listItems.findIndex(x => x.productid == productID);
+                    listItems.splice(index, 1);
+                    renderListItems();
+                });
+
+                $('#place-order-btn').click(function (event) {
+                    event.preventDefault();
+                    $('#listItems').val(JSON.stringify(listItems));
+                    $('#sum').val(sum);
+                    $('#order-form').submit();
+                });
+            });
+        </script>
+    <style>
+        .product-name {
+            display: block;
+            width: 150px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+    </style>
+</body>
+</html

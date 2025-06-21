@@ -1,0 +1,155 @@
+﻿@model BusinessObject.ObjectView.PetView
+@{
+    ViewData["Title"] = "Create Pet";
+    int userId = ViewData["UserId"] != null ? (int)ViewData["UserId"] : 0;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Meow & Woof - Pet Care Website</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta content="Free HTML Templates" name="keywords" />
+    <meta content="Free HTML Templates" name="description" />
+
+    <!-- Favicon -->
+    <link href="/img/logo.png" rel="icon" />
+
+    <!-- Google Web Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Nunito:wght@600;700;800&display=swap"
+          rel="stylesheet" />
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css"
+          rel="stylesheet" />
+
+    <!-- Flaticon Font -->
+    <link href="/lib/flaticon/font/flaticon.css" rel="stylesheet" />
+    <script src="https://kit.fontawesome.com/84e176b008.js"
+            crossorigin="anonymous"></script>
+
+    <!-- Libraries Stylesheet -->
+    <link href="/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
+    <link href="/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css"
+          rel="stylesheet" />
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="/css/common/style.css" rel="stylesheet" />
+    <link href="/css/pages/navbar.css" rel="stylesheet" />
+</head>
+
+<body>
+    @Html.Partial("Header")
+
+    <div class="container mt-5">
+        <h1 class="text-primary">Thêm mới thú cưng</h1>
+        <hr />
+        <form asp-action="CreatePet" asp-controller="User" enctype="multipart/form-data" method="post">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="text-center">
+                        <img id="avatarPreview" class="avatar img-circle img-thumbnail" alt="avatar" style="max-width: 200px;" />
+                        <h6>Ảnh thú cưng</h6>
+                        <input type="file" class="form-control-file" id="Petimage" name="Petimage" />
+                    </div>
+                </div>
+                <div class="col-md-9 personal-info">
+                    <div class="alert alert-info alert-dismissable">
+                        <a class="panel-close close" data-dismiss="alert">×</a>
+                        <i class="fa fa-coffee"></i>
+                        Vui lòng điền thông tin chi tiết về thú cưng.
+                    </div>
+                    <div class="form-horizontal">
+                        <div class="form-group">
+                            <label class="col-lg-3 control-label">Tên thú cưng:</label>
+                            <div class="col-lg-8">
+                                <input type="text" class="form-control" id="Petname" name="Petname" required />
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="col-lg-3 control-label">Loại thú cưng:</label>
+                            <div class="col-lg-8">
+                                <select class="form-control" id="PetTypeId" name="PetTypeId">
+                                    @if (Model.PetTypes != null && Model.PetTypes.Any())
+                                    {
+                                        foreach (var petType in Model.PetTypes)
+                                        {
+                                            <option value="@petType.Pettypeid">@petType.Pettypename |@petType.WeightFrom->@petType.WeightTo|</option>
+                                        }
+                                    }
+                                    else
+                                    {
+                                        <option value="">Không có dữ liệu loại thú cưng</option>
+                                    }
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-lg-3 control-label">Giới tính:</label>
+                                <div class="col-lg-8">
+                                    <select class="form-control" id="Gender" name="Gender">
+                                        <option value="1">Đực</option>
+                                        <option value="2">Cái</option>
+                                        <option value="3">Đã thiến</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <input type="hidden" name="UserId" value="@userId" />
+                            <div class="form-group">
+                                <div class="col-lg-offset-3 col-lg-8">
+                                    <button type="submit" class="btn btn-primary">Lưu thông tin</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </form>
+
+        <hr />
+    </div>
+
+    <!-- Footer Start -->
+    @Html.Partial("Footer")
+    <!-- Footer End -->
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="/lib/easing/easing.min.js"></script>
+    <script src="/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="/lib/tempusdominus/js/moment.min.js"></script>
+    <script src="/lib/tempusdominus/js/moment-timezone.min.js"></script>
+    <script src="/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
+
+    <!-- Contact Javascript File -->
+    <script src="/mail/jqBootstrapValidation.min.js"></script>
+    <script src="/mail/contact.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="/js/main.js"></script>
+    <script>
+        if (window.FileReader) {
+            document.getElementById('Petimage').addEventListener('change', function (event) {
+                const file = event.target.files[0];
+                if (file) {
+                    const reader = new FileReader();
+                    reader.onload = function (e) {
+                        document.getElementById('avatarPreview').src = e.target.result;
+                    }
+                    reader.readAsDataURL(file);
+                }
+            });
+        } else {
+            alert('FileReader is not supported in this browser.');
+        }
+    </script>
+    <script>
+        function updatePetTypeName() {
+            var petTypeDropdown = document.getElementById('PetTypeId');
+            var selectedOption = petTypeDropdown.options[petTypeDropdown.selectedIndex];
+            var petTypeName = selectedOption.getAttribute('data-name');
+            document.getElementById('PettypeName').value = petTypeName;
+        }
+    </script>
+</body>
+</html>

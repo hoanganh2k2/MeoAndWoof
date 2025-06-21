@@ -1,0 +1,114 @@
+﻿@model BusinessObject.Models.DTO.ServicestoreDTO
+
+@{
+    ViewData["Title"] = "Create Product";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Basic Page Info -->
+    <meta charset="utf-8">
+    <title>Create Product - DeskApp</title>
+
+    <!-- Site favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/admin/vendors/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/admin/vendors/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/admin/vendors/images/favicon-16x16.png">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="/admin/vendors/styles/core.css">
+    <link rel="stylesheet" type="text/css" href="/admin/vendors/styles/icon-font.min.css">
+    <link rel="stylesheet" type="text/css" href="/admin/vendors/styles/style.css">
+</head>
+<body>
+    @Html.Partial("SupplierHeader")
+    @Html.Partial("SupplierFunction")
+
+    <div class="mobile-menu-overlay"></div>
+
+    <div class="main-container">
+        <div class="pd-ltr-20 xs-pd-20-10">
+            <div class="min-height-200px">
+                <div class="page-header">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <div class="title">
+                                <h4>Create Product</h4>
+                            </div>
+                            <nav aria-label="breadcrumb" role="navigation">
+                                <ol class="breadcrumb">
+                                    <li class="breadcrumb-item"><a href="/">Home</a></li>
+                                    <li class="breadcrumb-item active" aria-current="page">Create Product</li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Create Product Form Start -->
+                <div class="card-box mb-30">
+                    <div class="pd-20">
+                        <h4 class="text-blue h4">Create New Product</h4>
+                    </div>
+                    <div class="pb-20">
+                        <form asp-action="CreateProductCuaHangThuCung" method="post" enctype="multipart/form-data">
+                            <div class="form-group">
+                                <label asp-for="Productname" class="control-label"></label>
+                                <input asp-for="Productname" class="form-control" />
+                                <span asp-validation-for="Productname" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Categoryid" class="control-label"></label>
+                                <select asp-for="Categoryid" class="form-control">
+                                    <option value="">-- Select Category --</option>
+                                    @foreach (var category in ViewBag.Categories)
+                                    {
+                                        <option value="@category.Categoryid">@category.Categoryname</option>
+                                    }
+                                </select>
+                                <span asp-validation-for="Categoryid" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Description" class="control-label"></label>
+                                <textarea asp-for="Description" class="form-control"></textarea>
+                                <span asp-validation-for="Description" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Productdiscount" class="control-label"></label>
+                                <input asp-for="Productdiscount" class="form-control" />
+                                <span asp-validation-for="Productdiscount" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Productimage" class="control-label"></label>
+                                <input type="text" asp-for="Productimage" class="form-control" />
+                                <span asp-validation-for="Productimage" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <input type="hidden" asp-for="Serviceid" value="@ViewBag.ServiceId" />
+                            </div>
+                            <button type="submit" class="btn btn-primary">Create</button>
+                        </form>
+                    </div>
+                </div>
+                <!-- Create Product Form End -->
+
+            </div>
+            <div class="footer-wrap pd-20 mb-20 card-box">
+                DeskApp - Bootstrap 4 Admin Template By <a href="https://github.com/dropways" target="_blank">Ankit Hingarajiya</a>
+            </div>
+        </div>
+    </div>
+    <!-- js -->
+    <script src="/admin/vendors/scripts/core.js"></script>
+    <script src="/admin/vendors/scripts/script.min.js"></script>
+    <script src="/admin/vendors/scripts/process.js"></script>
+    <script src="/admin/vendors/scripts/layout-settings.js"></script>
+</body>
+</html>

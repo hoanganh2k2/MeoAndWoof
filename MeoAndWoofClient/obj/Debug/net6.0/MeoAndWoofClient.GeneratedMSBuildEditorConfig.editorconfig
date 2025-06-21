@@ -1,0 +1,251 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MeoAndWoofClient
+build_property.RootNamespace = MeoAndWoofClient
+build_property.ProjectDir = E:\Chuyen nganh\Dotnet\EXE\EXE_MeoAndWoof_API\MeoAndWoofClient\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Chuyen nganh\Dotnet\EXE\EXE_MeoAndWoof_API\MeoAndWoofClient
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Admin/Chart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2hhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Admin/Chat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2hhdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Admin/CuaHangThuCung.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3VhSGFuZ1RodUN1bmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Admin/LuuTruThuCung.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTHV1VHJ1VGh1Q3VuZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Admin/StoreProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3RvcmVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Authen/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVuXEZvcmdvdFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Authen/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVuXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Authen/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVuXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Authen/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVuXFJlc2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Home/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Home/BlogDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Home/Booking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb29raW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Home/Price.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Home/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Service/PaymentNotification/PaymentFail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxQYXltZW50Tm90aWZpY2F0aW9uXFBheW1lbnRGYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Service/PaymentNotification/PaymentSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxQYXltZW50Tm90aWZpY2F0aW9uXFBheW1lbnRTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Service/ServiceDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxTZXJ2aWNlRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Service/ShopDetail1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxTaG9wRGV0YWlsMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Service/ShopDetail2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxTaG9wRGV0YWlsMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Shared/AdminFunction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluRnVuY3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Shared/AdminHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Shared/Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Shared/Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Shared/SupplierFunction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFN1cHBsaWVyRnVuY3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Shared/SupplierHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFN1cHBsaWVySGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Supplier/Chart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcQ2hhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Supplier/Chat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcQ2hhdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Supplier/CreateCuaHangThuCung.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcQ3JlYXRlQ3VhSGFuZ1RodUN1bmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Supplier/CreateLuuTruThuCung.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcQ3JlYXRlTHV1VHJ1VGh1Q3VuZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Supplier/CreateProductCuaHangThuCung.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcQ3JlYXRlUHJvZHVjdEN1YUhhbmdUaHVDdW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Supplier/CreateProductLuuTruThuCung.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcQ3JlYXRlUHJvZHVjdEx1dVRydVRodUN1bmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Supplier/CuaHangThuCung.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcQ3VhSGFuZ1RodUN1bmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Supplier/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Supplier/EditProductCuaHangThuCung.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRWRpdFByb2R1Y3RDdWFIYW5nVGh1Q3VuZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Supplier/EditProductLuuTruThuCung.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRWRpdFByb2R1Y3RMdXVUcnVUaHVDdW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Supplier/ListBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcTGlzdEJvb2tpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Supplier/ListOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcTGlzdE9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Supplier/LuuTruThuCung.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcTHV1VHJ1VGh1Q3VuZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Supplier/OrderDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcT3JkZXJEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Supplier/ProductCuaHangThuCung.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcUHJvZHVjdEN1YUhhbmdUaHVDdW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Supplier/ProductLuuTruThuCung.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcUHJvZHVjdEx1dVRydVRodUN1bmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Supplier/StoreProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcU3RvcmVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/User/ChangePass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDaGFuZ2VQYXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/User/CreatePet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGVQZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/User/EditPet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0UGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/User/HistoryBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxIaXN0b3J5Qm9va2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/User/HistoryStore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxIaXN0b3J5U3RvcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/User/Information.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmZvcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Chuyen nganh/Dotnet/EXE/EXE_MeoAndWoof_API/MeoAndWoofClient/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fq9jne3b09

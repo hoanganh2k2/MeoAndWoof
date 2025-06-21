@@ -1,0 +1,123 @@
+﻿@model BusinessObject.ObjectView.CreateStoreSupplierView
+@{
+    ViewData["Title"] = "Create Store";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Basic Page Info -->
+    <meta charset="utf-8">
+    <title>Create Product - DeskApp</title>
+
+    <!-- Site favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/admin/vendors/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/admin/vendors/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/admin/vendors/images/favicon-16x16.png">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="/admin/vendors/styles/core.css">
+    <link rel="stylesheet" type="text/css" href="/admin/vendors/styles/icon-font.min.css">
+    <link rel="stylesheet" type="text/css" href="/admin/vendors/styles/style.css">
+</head>
+<body>
+    @Html.Partial("SupplierHeader")
+    @Html.Partial("SupplierFunction")
+
+    <div class="mobile-menu-overlay"></div>
+
+    <div class="main-container">
+        <div class="pd-ltr-20 xs-pd-20-10">
+            <div class="min-height-200px">
+                <div class="page-header">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <div class="title">
+                                <h4>Create Product</h4>
+                            </div>
+                            <nav aria-label="breadcrumb" role="navigation">
+                                <ol class="breadcrumb">
+                                    <li class="breadcrumb-item"><a href="/">Home</a></li>
+                                    <li class="breadcrumb-item active" aria-current="page">Create Store Lưu trú Thú Cưng</li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Create Product Form Start -->
+                <div class="card-box mb-30">
+                    <div class="pd-20">
+                        <h4 class="text-blue h4">Create New Store</h4>
+                    </div>
+                    <div class="pb-20">
+                        <form method="post" asp-action="CreateLuuTruThuCung" enctype="multipart/form-data">
+                            <div class="form-group">
+                                <label asp-for="serviceDTO.Servicename" class="control-label"></label>
+                                <input asp-for="serviceDTO.Servicename" class="form-control" />
+                                <span asp-validation-for="serviceDTO.Servicename" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="serviceDTO.Description" class="control-label"></label>
+                                <textarea asp-for="serviceDTO.Description" class="form-control"></textarea>
+                                <span asp-validation-for="serviceDTO.Description" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="serviceDTO.Address" class="control-label"></label>
+                                <input asp-for="serviceDTO.Address" class="form-control" />
+                                <span asp-validation-for="serviceDTO.Address" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <input type="hidden" asp-for="userDTO.Userid" value="@ViewBag.UserId" />
+                            </div>
+                            <div class="form-group">
+                                <label for="serviceDTO.Serviceprice.Numberprice">Giá dịch vụ</label>
+                                <input type="number" class="form-control" id="serviceDTO.Serviceprice.Numberprice" name="serviceDTO.Serviceprice.Numberprice" asp-for="serviceDTO.Serviceprice.Numberprice">
+                            </div>
+                            <div class="form-group">
+                                <label for="serviceDTO.Serviceprice.Startdate">Ngày bắt đầu</label>
+                                <input type="date" class="form-control" id="serviceDTO.Serviceprice.Startdate" name="serviceDTO.Serviceprice.Startdate" asp-for="serviceDTO.Serviceprice.Startdate">
+                            </div>
+                            <div class="form-group">
+                                <label for="serviceDTO.Serviceprice.Enddate">Ngày kết thúc</label>
+                                <input type="date" class="form-control" id="serviceDTO.Serviceprice.Enddate" name="serviceDTO.Serviceprice.Enddate" asp-for="serviceDTO.Serviceprice.Enddate">
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label">Loại thú cưng</label><br />
+                                @foreach (var petType in ViewBag.PetTypes)
+                                {
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="checkbox" id="PetType-@petType.Pettypeid" name="PetTypeIds[]" value="@petType.Pettypeid">
+                                        <label class="form-check-label" for="PetType-@petType.Pettypeid">@petType.Pettypename | @petType.WeightFrom -> @petType.WeightTo |</label>
+                                    </div>
+                                }
+                            </div>
+                            <div class="form-group">
+                                <label for="Images">Upload Images</label>
+                                <input type="file" class="form-control-file" id="Images" name="Images" multiple />
+                            </div>
+                            <button type="submit" class="btn btn-primary">Create</button>
+                        </form>
+                    </div>
+                </div>
+                <!-- Create Product Form End -->
+
+            </div>
+            <div class="footer-wrap pd-20 mb-20 card-box">
+                DeskApp - Bootstrap 4 Admin Template By <a href="https://github.com/dropways" target="_blank">Ankit Hingarajiya</a>
+            </div>
+        </div>
+    </div>
+    <!-- js -->
+    <script src="/admin/vendors/scripts/core.js"></script>
+    <script src="/admin/vendors/scripts/script.min.js"></script>
+    <script src="/admin/vendors/scripts/process.js"></script>
+    <script src="/admin/vendors/scripts/layout-settings.js"></script>
+</body>
+</html>

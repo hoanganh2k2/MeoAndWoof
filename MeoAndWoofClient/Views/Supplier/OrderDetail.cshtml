@@ -1,0 +1,111 @@
+﻿@using System.Globalization;
+@model BusinessObject.ObjectView.OrderDetailView;
+@{
+	ViewData["Title"] = "Order Detail";
+	Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Basic Page Info -->
+    <meta charset="utf-8">
+    <title>Edit Product - DeskApp</title>
+
+    <!-- Site favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/admin/vendors/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/admin/vendors/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/admin/vendors/images/favicon-16x16.png">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="/admin/vendors/styles/core.css">
+    <link rel="stylesheet" type="text/css" href="/admin/vendors/styles/icon-font.min.css">
+    <link rel="stylesheet" type="text/css" href="/admin/vendors/styles/style.css">
+</head>
+<style>
+    .save-button {
+        margin-top: 100px;
+    }
+</style>
+<body>
+    @Html.Partial("SupplierHeader")
+    @Html.Partial("SupplierFunction")
+    <div class="main-container">
+        <div class="pd-ltr-20 xs-pd-20-10">
+            <div class="min-height-200px">
+                <div class="page-header">
+                    <td>
+                        <input value="@ViewBag.Id" type="number" hidden />
+                        @if(Model.orderDTO.Status == 1)
+                        {
+                            <a asp-controller="Supplier" asp-action="Confirm" asp-route-Id="@ViewBag.Id" asp-route-status="2">
+                                <button class="btn btn-success">Xác nhận đơn hàng</button>
+                            </a>
+                        }else if(Model.orderDTO.Status == 2)
+                        {
+                            <a asp-controller="Supplier" asp-action="Confirm" asp-route-Id="@ViewBag.Id" asp-route-status="3">
+                                <button class="btn btn-success">Bắt đầu vận chuyển</button>
+                            </a>
+                        }
+                        else if(Model.orderDTO.Status == 3)
+                        {
+                            <a asp-controller="Supplier" asp-action="Confirm" asp-route-Id="@ViewBag.Id" asp-route-status="4">
+                                <button class="btn btn-success">Đã giao hàng thành công</button>
+                            </a>
+                            <a asp-controller="Supplier" asp-action="Confirm" asp-route-Id="@ViewBag.Id" asp-route-status="5">
+                                <button class="btn btn-danger">Đã giao hàng thất bại</button>
+                            </a>
+                        }
+                    </td>
+                </div>
+                <!-- Simple Datatable start -->
+                <div class="card-box mb-30">
+                    <div class="pb-20">
+                        <table class="data-table table stripe hover nowrap">
+                            <thead>
+                                <tr>
+                                    <th>Tên sản phẩm</th>
+                                    <th>Hình ảnh</th>
+                                    <th>Số lượng</th>
+                                    <th>Giá thành</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var detail in Model.orderDetailDTOs)
+                                {
+                                    <tr>
+                                        <td>@detail.Product.Productname</td>
+                                        <td>
+                                            <img src="@detail.Product.Productimage"
+                                                 class="avatar img-circle img-thumbnail"
+                                                 style="max-height : 150px" />
+                                        </td>
+                                        <td>@detail.Quantity</td>
+                                        @{
+                                            var cultureInfo = new CultureInfo("vi-VN");
+                                            var formattedPrice = string.Format(cultureInfo, "{0:N0} VND", detail.UnitPrice);
+                                        }
+                                        <td>@formattedPrice</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!-- Simple Datatable End -->
+            </div>
+        </div>
+    </div>
+    <!-- js -->
+    <script src="/admin/vendors/scripts/core.js"></script>
+    <script src="/admin/vendors/scripts/script.min.js"></script>
+    <script src="/admin/vendors/scripts/process.js"></script>
+    <script src="/admin/vendors/scripts/layout-settings.js"></script>
+</body>
+</html>

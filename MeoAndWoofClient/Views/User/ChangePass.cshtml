@@ -1,0 +1,114 @@
+﻿@model BusinessObject.Models.User;
+
+@{
+    ViewData["Title"] = "Change Pass";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Meow & Woof - Pet Care Website</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta content="Free HTML Templates" name="keywords" />
+    <meta content="Free HTML Templates" name="description" />
+
+    <!-- Favicon -->
+    <link href="/img/logo.png" rel="icon" />
+
+    <!-- Google Web Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Nunito:wght@600;700;800&display=swap"
+          rel="stylesheet" />
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css"
+          rel="stylesheet" />
+
+    <!-- Flaticon Font -->
+    <link href="/lib/flaticon/font/flaticon.css" rel="stylesheet" />
+    <script src="https://kit.fontawesome.com/84e176b008.js"
+            crossorigin="anonymous"></script>
+
+    <!-- Libraries Stylesheet -->
+    <link href="/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
+    <link href="/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css"
+          rel="stylesheet" />
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="/css/common/style.css" rel="stylesheet" />
+    <link href="/css/pages/navbar.css" rel="stylesheet" />
+</head>
+
+<body>
+    @Html.Partial("Header")
+    <!-- Information Start -->
+    <div class="container mt-5 mb-5">
+        <h1 class="text-primary">Đổi mật khẩu</h1>
+        <hr />
+        <div class="row">
+            <div class="col-md-3">
+                <div class="text-center">
+                    <img src="@Model.Userimage"
+                         class="avatar img-circle img-thumbnail"
+                         alt="avatar" />
+                </div>
+            </div>
+
+            <div class="col-md-9 personal-info">
+                <div class="alert alert-info alert-dismissable">
+                    <a class="panel-close close" data-dismiss="alert">×</a>
+                    <i class="fa fa-coffee"></i>
+                    Bạn có thể <strong>đổi mật khẩu</strong> tại đây. Vui lòng kiểm tra lại thông tin của bạn trước khi gửi.
+                </div>
+                <h3>Thông tin mật khẩu</h3>
+                <form id="editForm" asp-controller="User" asp-action="ChangePass" class="form-horizontal">
+                    <div class="form-group">
+                        <label class="col-lg-3 control-label">Mật khẩu hiện tại:</label>
+                        <div class="col-lg-8">
+                            <input name="OldPassword" class="form-control" type="password" required value="@ViewBag.OldPassword" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-lg-3 control-label">Mật khẩu mới:</label>
+                        <div class="col-lg-8">
+                            <input asp-for="Password" name="Password" class="form-control" type="password" required />
+                        </div>
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-lg-3 control-label">Nhập lại mật khẩu:</label>
+                        <div class="col-lg-8">
+                            <input name="RePassword" class="form-control" type="password" required />
+                        </div>
+                    </div>
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <button id="saveChanges" class="btn btn-primary ml-3 mt-3 btn-lg">
+                            Lưu thay đổi
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <hr />
+    </div>
+    <!-- Information End -->
+    @Html.Partial("Footer")
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="/lib/easing/easing.min.js"></script>
+    <script src="/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="/lib/tempusdominus/js/moment.min.js"></script>
+    <script src="/lib/tempusdominus/js/moment-timezone.min.js"></script>
+    <script src="/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
+
+    <!-- Contact Javascript File -->
+    <script src="/mail/jqBootstrapValidation.min.js"></script>
+    <script src="/mail/contact.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="/js/main.js"></script>
+</body>
+</html>

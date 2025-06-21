@@ -1,0 +1,127 @@
+﻿@using System.Globalization;
+@model BusinessObject.ObjectView.ListOrder;
+@{
+	ViewData["Title"] = "List Order";
+	Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Basic Page Info -->
+    <meta charset="utf-8">
+    <title>Edit Product - DeskApp</title>
+
+    <!-- Site favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/admin/vendors/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/admin/vendors/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/admin/vendors/images/favicon-16x16.png">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="/admin/vendors/styles/core.css">
+    <link rel="stylesheet" type="text/css" href="/admin/vendors/styles/icon-font.min.css">
+    <link rel="stylesheet" type="text/css" href="/admin/vendors/styles/style.css">
+</head>
+<style>
+    .save-button {
+        margin-top: 100px;
+    }
+</style>
+<body>
+    @Html.Partial("SupplierHeader")
+    @Html.Partial("SupplierFunction")
+    <div class="main-container">
+        <div class="pd-ltr-20 xs-pd-20-10">
+            <div class="min-height-200px">
+                <div class="page-header">
+                </div>
+                <!-- Simple Datatable start -->
+                <div class="card-box mb-30">
+                    <div class="pb-20">
+                        <table class="data-table table stripe hover nowrap">
+                            <thead>
+                                <tr>
+                                    <th>Tên người đặt</th>
+                                    <th>Ngày đặt hàng</th>
+                                    <th>Ngày nhân hàng</th>
+                                    <th>Địa chỉ</th>
+                                    <th>Tổng tiền</th>
+                                    <th>Phương thức thanh toán</th>
+                                    <th>Trạng thái đơn hàng</th>
+                                    <th></th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var order in Model.orderDTOs)
+                                {
+                                    <tr>
+                                        <td>@order.User.Fullname</td>
+                                        <td>@order.OrderDate</td>
+                                        <td>@order.ShippedDate</td>
+                                        <td>@order.AddressShip</td>
+                                        @{
+                                            var cultureInfo = new CultureInfo("vi-VN");
+                                            var formattedPrice = string.Format(cultureInfo, "{0:N0} VND", order.Total);
+                                        }
+                                        <td>@formattedPrice</td>
+                                        @if (order.TransactionType == 1)
+                                        {
+                                            <td><span>Thanh toán khi nhận hàng</span></td>
+                                        }
+                                        else if (order.TransactionType == 2)
+                                        {
+                                            <td><span>Đã thanh toán bằng VNPay</span></td>
+                                        }
+                                        else
+                                        {
+                                            <td><span>Đã thanh toán bằng PayOS</span></td>
+                                        }
+
+                                        @if (order.Status == 1)
+                                        {
+                                            <td><span>Đặt hàng thành công</span></td>
+                                        }
+                                        else if (order.Status == 2)
+                                        {
+                                            <td><span>Người bán đang chuẩn bị hàng</span></td>
+                                        }
+                                        else if (order.Status == 3)
+                                        {
+                                            <td><span>Đang trong quá trình vận chuyển</span></td>
+                                        }
+                                        else if (order.Status == 4)
+                                        {
+                                            <td><span>Nhận hàng thành công</span></td>
+                                        }
+                                        else if (order.Status == 5)
+                                        {
+                                            <td><span>Đơn hàng đã bị hủy</span></td>
+                                        }
+                                        <td>
+                                            <a asp-controller="Supplier" asp-action="OrderDetail" asp-route-Id="@order.OrderId">
+                                                <button class="btn btn-success">Chi tiết</button>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!-- Simple Datatable End -->
+            </div>
+        </div>
+    </div>
+    <!-- js -->
+    <script src="/admin/vendors/scripts/core.js"></script>
+    <script src="/admin/vendors/scripts/script.min.js"></script>
+    <script src="/admin/vendors/scripts/process.js"></script>
+    <script src="/admin/vendors/scripts/layout-settings.js"></script>
+</body>
+</html>
